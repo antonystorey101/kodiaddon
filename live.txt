@@ -4,3 +4,9 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/BBC_One_HD_Box.svg/2000px-BBC_One_HD_Box.svg.png</thumbnail>
 <fanart></fanart>
 </item>
+<item>
+<title>-----UK SKY CINEMA-----</title>
+<link>https://github.com/antonystorey101/kodiaddon/blob/master/livetvsections.txt</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/BBC_One_HD_Box.svg/2000px-BBC_One_HD_Box.svg.png</thumbnail>
+<fanart></fanart>
+</item>
