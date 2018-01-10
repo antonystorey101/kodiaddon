@@ -9,7 +9,7 @@
 <item>
 <title>Wonder Woman</title>
 <link>http://112.download.real-debrid.com/d/BED463I4RVISY/Wonder.Woman.2017.720p.BRRip.X264.AC3-EVO.mkv</link>
-<thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcQcCAOmt-FsRsR8GebIzI67qSvdQ2JLYDRLxeAcbH-541fzqq1H</thumbnail>
+<thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcQcCAOmt-FsRsR8GebIzI67qSvdQ2JLYDRLxeAcbH-541fzqq1H<thumbnail>
 <fanart></fanart>
 <info>When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny.</info>
 </item>
