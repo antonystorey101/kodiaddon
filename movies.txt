@@ -10,3 +10,9 @@
 <thumbnail>https://i.ytimg.com/vi/2_x-4yDeMA4/movieposter.jpg</thumbnail>
 <fanart></fanart>
 </item>
+<item>
+<title>Captin America: Civil War</title>
+<link>http://streamango.com/v/d/crqfkmfffopfsbql~1515701522~83.136.0.0~7tqanAiv/720</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/53/Captain_America_Civil_War_poster.jpg</thumbnail>
+<fanart></fanart>
+</item>
