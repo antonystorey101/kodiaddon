@@ -4,8 +4,8 @@
 <channels>
 <channel>
 <name>Live TV</name>
-<thumbnail></thumbnail>
-<externallink>https://www.dropbox.com/s/unol0igmh9fupmn/live.txt?dl=1</externallink>
+<thumbnail>https://cdn.apk-cloud.com/detail/image/com.hellotv.launcher-w250.png</thumbnail>
+<externallink>https://github.com/antonystorey101/kodiaddon/raw/master/live.txt</externallink>
 <fanart></fanart>
 <info>SimpleKore.com</info>
 </channel>
