@@ -4,3 +4,9 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/BBC_One_HD_Box.svg/2000px-BBC_One_HD_Box.svg.png</thumbnail>
 <fanart></fanart>
 </item>
+<item>
+<title>BBC Two HD</title>
+<link>http://eliteiptvhosting.ddns.net:8000/live/KODIADDON/DMWyRjMhoY/35516.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/BBC_One_HD_Box.svg/2000px-BBC_One_HD_Box.svg.png</thumbnail>
+<fanart></fanart>
+</item>
