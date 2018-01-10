@@ -12,7 +12,7 @@
 
 <channel>
 <name>Movies</name>
-<thumbnail></thumbnail>
+<thumbnail>https://archive.org/services/img/movies-icon_201707</thumbnail>
 <externallink>https://github.com/antonystorey101/kodiaddon/raw/master/movies.txt</externallink>
 <fanart></fanart>
 <info>SimpleKore.com</info>
