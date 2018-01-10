@@ -29,7 +29,7 @@
 <fanart></fanart>
 <item>
 <title>Thor: Ragnarok</title>
-<link>http://streamango.com/v/d/kkqpomklfkdtqkns~1515705603~83.136.0.0~s9Hx7XhL/496</link>
+<link>http://streamango.com/v/d/kkqpomklfkdtqkns~1515705763~83.136.0.0~YxdeHcxO/496</link>
 <thumbnail>http://cdn.mos.cms.futurecdn.net/vDcGGXDyqQw8ChKX3fKn5T.jpg</thumbnail>
 <fanart></fanart>
 </item>
