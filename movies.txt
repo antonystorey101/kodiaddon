@@ -12,7 +12,7 @@
 </item>
 <item>
 <title>Captin America: Civil War</title>
-<link<https://tinyurl.com/y7y8bulp</link>
+<link>https://tinyurl.com/y7y8bulp</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/5/53/Captain_America_Civil_War_poster.jpg</thumbnail>
 <fanart></fanart>
 </item>
