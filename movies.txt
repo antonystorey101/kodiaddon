@@ -5,3 +5,11 @@
 <fanart></fanart>
 <info>Allied soldiers from Belgium, the British Empire and France are surrounded by the German Army, and evacuated during a fierce battle in World War II.</info>
 </item>
+
+<item>
+<title>Wonder Woman</title>
+<link>http://112.download.real-debrid.com/d/BED463I4RVISY/Wonder.Woman.2017.720p.BRRip.X264.AC3-EVO.mkv</link>
+<thumbnail>https://m.imdb.com/title/tt0451279/mediaviewer/rm1404907776?ref_=m_tt_ov_i</thumbnail>
+<fanart></fanart>
+<info>When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny.</info>
+</item>
