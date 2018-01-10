@@ -4,3 +4,9 @@
 <thumbnail>http://static.hd-trailers.net/images/-99804-poster-xlarge-resized.jpg</thumbnail>
 <fanart></fanart>
 </item>
+<item>
+<title>Transformers: The Last Knight </title>
+<link>http://streamango.com/v/d/odreacfcemfnopff~1515700761~83.136.0.0~1nButV-A/674</link>
+<thumbnail>https://i.ytimg.com/vi/2_x-4yDeMA4/movieposter.jpg</thumbnail>
+<fanart></fanart>
+</item>
