@@ -20,3 +20,12 @@
 <fanart></fanart>
 <info>Fearing that the actions of Superman are left unchecked, Batman takes on the Man of Steel, while the world wrestles with what kind of a hero it really needs</info>
 </item>
+
+
+<item>
+<title>Beauty And The Beast</title>
+<link>https://n3125.thevideo.me:8777/ovcgmffaec3hu37wrd3o7iakn4fuhvn3itai6ou3cg2h25hupq7opz66dun544g52ygt47lk2zvw36g6l3wuvnclvty4fhi33lig7de7hbot2pwqcbci6hlzjgt5cdpxjsjcnez26z2auh63dt2albywjwvuw4drrbpykyqvyk4zna5emwyt6thnwfpi3waqoprthxf6rntw3jfpnk4nfjte34tft7na6jylkylw6fvckxbv3mm2sgsrgjmgrlkvxmzd237e4nrqo55jk7qp54frpbiq/v.mp4?direct=false&ua=1&vt=mgrplcs62aehcxdlpsimh6j5hivxsz3dscngmmsxrobsqoc3rrhkxaldytkcj76astbwgvvsuhl5dbdjq6cqlq6htomffj3tgpd5e5f5gc7mj5s6fen5z6rpwfwvl4denyba7j3rg3rqq3hwkvarsfkzt3tnhna3vjgev7ua4esrmghcc7lnocq6iz6poglh6mzkj5wrdqqz34mc27iodi3q6ihz4dbia2manycaxdzuqtle3q3epdt44x3nnfkmkx4qfm2ykgosc6sbuiwq5qlnnu</link>
+<thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcQcCAOmt-FsRsR8GebIzI67qSvdQ2JLYDRLxeAcbH-541fzqq1H<thumbnail>
+<fanart></fanart>
+<info>When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny.</info>
+</item>
