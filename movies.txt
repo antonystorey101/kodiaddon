@@ -12,3 +12,11 @@
 <fanart></fanart>
 <info>Allied soldiers from Belgium, the British Empire and France are surrounded by the German Army, and evacuated during a fierce battle in World War II.</info>
 </item>
+
+<item>
+<title>Batman Vs Superman</title>
+<link>http://112.download.real-debrid.com/d/BED463I4RVISY/Wonder.Woman.2017.720p.BRRip.X264.AC3-EVO.mkv</link>
+<thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcS61fdKkVcQIKtObjNGAELqVwyzhwFoIfNGZVbC-rqta12xBfLa<thumbnail>
+<fanart></fanart>
+<info>Fearing that the actions of Superman are left unchecked, Batman takes on the Man of Steel, while the world wrestles with what kind of a hero it really needs</info>
+</item>
