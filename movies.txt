@@ -5,7 +5,6 @@
 <fanart></fanart>
 <info>When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny.</info>
 </item>
-
 <item>
 <title>Dunkirk</title>
 <link>http://185.176.192.26/vids/dunkirk.2017.1080p.bluray.h264.aac-rarbg___5a268a41aaf3c.mp4</link>
