@@ -4,7 +4,7 @@
 <channels>
 <channel>
 <name>----UK ENTERTAINMENT----</name>
-<thumbnail>https://cdn.apk-cloud.com/detail/image/com.hellotv.launcher-w250.png</thumbnail>
+<thumbnail>https://www.dropbox.com/s/7e1jjvayu7mxz5v/uktv.png?dl=1</thumbnail>
 <externallink>https://github.com/antonystorey101/kodiaddon/blob/master/ukentertainment.txt</externallink>
 <fanart></fanart>
 <info>SimpleKore.com</info>
