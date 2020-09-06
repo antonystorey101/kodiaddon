@@ -1,1 +1,1 @@
-{"result":"eirehosting.net:8080"}
+{"result":"http://eirehosting.net:8080"}
