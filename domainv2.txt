@@ -1,1 +1,1 @@
-{"http://eirehosting.net":"8080"}
+{"result":"http://s1.vbhosting.xyz:1337"}
